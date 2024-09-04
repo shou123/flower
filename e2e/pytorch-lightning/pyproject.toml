@@ -11,7 +11,7 @@ authors = [
 ]
 dependencies = [
     "flwr[simulation] @ {root:parent:parent:uri}",
-    "pytorch-lightning==2.2.4",
+    "pytorch-lightning==2.4.0",
     "torchvision==0.14.1",
 ]
 
